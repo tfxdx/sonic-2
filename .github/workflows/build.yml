@@ -1,4 +1,4 @@
-name: Build RSDKv4
+name: Build RSDKv4 without pause
 
 on:
   push:
