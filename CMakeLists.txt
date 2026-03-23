@@ -70,7 +70,6 @@ set(RETRO_FILES
     RSDKv4/NativeObjects/MultiplayerScreen.cpp
     RSDKv4/NativeObjects/OptionsButton.cpp
     RSDKv4/NativeObjects/OptionsMenu.cpp
-    RSDKv4/NativeObjects/PauseMenu.cpp
     RSDKv4/NativeObjects/PlayerSelectScreen.cpp
     RSDKv4/NativeObjects/PushButton.cpp
     RSDKv4/NativeObjects/RecordsScreen.cpp
